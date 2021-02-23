@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I am Valluri Agasthya, a High School student currently studying at Sri Kumarans Children Home Educational Council in Bengaluru, India.
-Relatively new to coding and software development, I am looking to use my creativity and my passion for project development in general to find innovative and exciting solutions for commonplace problems.
+Relatively new to coding and software development, I am looking to use my creativity and my passion for project development to find innovative and exciting solutions for commonplace problems.
 
 
 - 🔭 I’m currently working on FreeCodeCamp's JavaScript Courses, along with **Swisheroo**- A Basketball Game built on Python and its modules.

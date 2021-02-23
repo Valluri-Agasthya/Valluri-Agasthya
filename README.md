@@ -9,7 +9,7 @@ Relatively new to coding and software development, I am looking to use my creati
 - 🔔 My projects so far are - **Swisheroo**, **ElderLy**
 - 🎉 I aim to be a **Full Stack Developer**
 - 🆙 I primarily code using **Python**, but I am also comfortable with **Javascript**,**Dart** and I am comfortable with basic **Database Management**
-- 📫 How to reach me: You can hit me up on **ItsAgasthya@gmail.com**
+- 📫 You can hit me up on **ItsAgasthya@gmail.com**
 - 🖥 I use both a Mac running OS X and a Windows 64-bit system for coding
 
 

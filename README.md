@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am Valluri Agasthya, a High School student currently studying at Sri Kumarans Children Home Educational Council in Bengaluru, India.
 Relatively new to coding and software development, I am looking to use my creativity and my passion for project development in general to find innovative and exciting solutions for commonplace problems.
@@ -10,6 +10,6 @@ Relatively new to coding and software development, I am looking to use my creati
 - 🎉 I aim to be a **Full Stack Developer**
 - 🆙 I primarily code using **Python**, but I am also comfortable with **Javascript**,**Dart** and basic **Database Management**
 - 📫 How to reach me: You can hit me up on **ItsAgasthya@gmail.com**
-- 🖥 I use both a Mac with OS X and a Windows system to code
+- 🖥 I use both a Mac running OS X and a Windows system to code
 
 
